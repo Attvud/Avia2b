@@ -4,7 +4,7 @@ Please read the information below carefully. It has everything you and developer
 
 ## Download links
 
-- [Source file (.sketch)](Project%20-%20UX,%20UI.sketch). Click on the link and click `"Download"`
+- [Source file (.sketch)](Project%20-%20UX,%20UI.sketch.zip). Click on the link and click `"Download"`
 - [Animations](/01%20-%20design/animation/)
 - [Logotype](/01%20-%20design/export/branding/logotype/README.md)
 - [Graphics](/01%20-%20design/export/graphics/)
